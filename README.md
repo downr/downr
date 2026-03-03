@@ -12,17 +12,21 @@
 ## ✨ Features
 
 - 🚀 **Browser-based** - No software installation needed
-- 🎥 **HD/4K/8K support** - Download in highest quality available (Currently Browser extension only feature for YouTube)
+- 🎥 **HD/4K/8K support** - Download in highest quality available (Currently available in Browser extension only)
 - 🔒 **Privacy-first** - No tracking or data collection
 - 🚫 **Ad-free** - Clean interface, zero ads or watermarks
 - ⚡ **Fast downloads** - Direct connections, no proxy delays
 - 🌍 **Cross-platform** - Works on any device with a browser
 
+
+## ✨ Platforms supported
+Youtube, Tiktok, Douyin, Capcut, Threads, Instagram, Facebook, Espn, Pinterest, imdb, imgur, ifunny, Izlesene, Reddit, Twitter, Vimeo, Snapchat, Bilibili, Dailymotion, Sharechat, Likee, Linkedin, Tumblr, Hipi, Telegram, Getstickerpack, Bitchute, Febspot, 9GAG, ok.ru, Rumble, Streamable, Ted, SohuTv, Xvideos, Xnxx, Xiaohongshu, Ixigua, Weibo, Miaopai, Meipai, Xiaoying, National Video, Yingke, Sina, Vk-vkvideo, Soundcloud, Mixcloud, Spotify, Zingmp3, Bandcamp
+
 ## 🎯 How to Use
 
 1. Visit **[downr.org](https://downr.org)**
 2. Paste your YouTube video URL
-3. Select quality (144p to 8K)
+3. Select quality (144p to 8K) (High resolution temporarily available in our chrome extension only)
 4. Click download - done!
 
 ## 💡 Why Downr?
