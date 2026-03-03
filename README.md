@@ -25,7 +25,7 @@ Youtube, Tiktok, Douyin, Capcut, Threads, Instagram, Facebook, Espn, Pinterest, 
 ## 🎯 How to Use
 
 1. Visit **[downr.org](https://downr.org)**
-2. Paste your YouTube video URL
+2. Paste your YouTube (or whatever platform you intend to download) video URL
 3. Select quality (144p to 8K) (High resolution temporarily available in our chrome extension only)
 4. Click download - done!
 
